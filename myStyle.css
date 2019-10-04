@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+
+img {
+  float: center;
+  height: 200px;
+  width: 100px;
+}
+
+h2 {
+  color: orange;
+}
