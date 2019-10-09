@@ -3,3 +3,7 @@ body {
   border: 1px dotted;
   border-radius:25px;
 }
+
+img{
+  float:right;
+}
