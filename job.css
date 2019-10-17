@@ -1,0 +1,39 @@
+#Title{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 8px;
+	border: solid 8px transparent;
+	border-image: url(border.png) 30 round;
+	float: center;
+	text-align: center;
+}
+
+#Title h2{
+	color: orange;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "Raleway";
+}
+
+legend{
+	color: orange;
+	font-family: "Raleway";
+	font-weight: bold;
+}
+
+label{
+	color: #C18300;
+	font-weight: bold;
+	font-family: "Slabo 27px";
+}
+
+th{
+	color: #D08D00;
+	font-family: "Slabo 27px";
+	font-size: 18px;
+}
+
+body{
+	background-image: url('pipes.png');
+}
